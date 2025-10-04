@@ -7,6 +7,10 @@ This is an infostealer malware written in Golang that I have wrote long time ago
 Vortex is a Windows-focused information-stealing implant with an operator-controlled commands. It is designed to operate as both a data exfiltration tool and a flexible backdoor: it can enumerate and manage connected clients, collect high-value artifacts (browser data, wallet extensions, messaging and desktop app data, file collections, screenshots), and receive updated components from an operator. The implant emphasizes stealth and persistence through extensive anti-analysis and AV-evasion techniques.
 The data will be delivered via Telegram bot and it will be controlled via Telegram bot commands.
 
+![1.png](images/1.png)
+![2.png](images/2.png)
+![3.png](images/3.png)
+
 ## Disclaimer
 
 This project is provided **for educational and research purposes only**.
